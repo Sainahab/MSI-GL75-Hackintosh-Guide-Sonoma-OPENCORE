@@ -38,7 +38,7 @@
 
 ## Hackintosh Status:
 
-- What's Working : ✅✅✅
+# What's Working: ✅✅✅
 
  - imessage / facetime / handoff / sidecar
  - WIFI/BT
@@ -50,7 +50,7 @@
  - camera
  - Usb type C
 
-- What's not working : 🚫🚫🚫
+# What's NOT Working: 🚫🚫🚫
 
  - GPU2 Nvidia RTX2060 (Obviously)
  - HDMI output (Again Nvidia)
